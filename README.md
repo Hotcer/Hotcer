@@ -9,8 +9,8 @@
   
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Hotcer+🌻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Hotcer+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+⚡)](https://git.io/typing-svg)
 
 
 - 💬 Ask me about **Python and Pandas**
@@ -29,7 +29,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/drumenatec8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drumenatec8" /></a></p><br><br>
 
-
+ <h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Hotcer}/count.svg">
+  
+ ![VisitorCount](https://profile-counter.glitch.me/{Hotcer}/count.svg)  
+  
+</a>
+ <div align="center">
+  <a href="https://github.com/Hotcer">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hotcer&show_icons=true&locale=en" alt="hotcer" /></p>
 
