@@ -13,6 +13,9 @@ David González es un científico de datos enfocado en ingeniería de datos, con
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hotcer&label=Profile%20views&color=0e75b6&style=flat" alt="hotcer" /> </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">           <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+</div>
 
 
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
