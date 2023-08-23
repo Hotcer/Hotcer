@@ -7,8 +7,7 @@ David González es un científico de datos enfocado en ingeniería de datos, con
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hotcer&label=Profile%20views&color=0e75b6&style=flat" alt="hotcer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hotcer" alt="hotcer" /></a> </p>
-<a target="_blank" align="center">
+
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
   
 </a>
@@ -50,3 +49,5 @@ David González es un científico de datos enfocado en ingeniería de datos, con
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hotcer&" alt="hotcer" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hotcer" alt="hotcer" /></a> </p>
+<a target="_blank" align="center">
