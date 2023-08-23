@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm David Gonzalez alias (Hotcer)</h1>
 <h2 align="center">I am a data science professional focused on data engineering living in Colombia</h3>
 
+## 🚀 About Me
+David González es un científico de datos enfocado en ingeniería de datos, con experiencia práctica a través de proyectos en el área de ciencia de datos que demuestran sus sólidos conocimientos. Si bien no tiene experiencia laboral formal en IT, ha realizado cursos y un bootcamp intensivo en ciencia de datos, obteniendo habilidades técnicas en Python, ETL, análisis exploratorio de datos con Pandas y nociones de machine learning e inteligencia artificial. Sus principales fortalezas incluyen el preprocesamiento y limpieza de datos, análisis estadístico, modelado y algoritmos de aprendizaje automático. Busca iniciar su carrera profesional en ingeniería de datos, con interés en dominar las mejores prácticas y herramientas de big data y computación en la nube. Su objetivo es convertirse en un referente en la gestión y procesamiento de datos a gran escala.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hotcer&label=Profile%20views&color=0e75b6&style=flat" alt="hotcer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hotcer" alt="hotcer" /></a> </p>
