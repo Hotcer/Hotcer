@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm David Gonzalez alias (Hotcer)</h1>
-<h2 align="center">I am a data science professional focused on data engineering living in Colombia</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Hotcer;I+am+a+Data+Scientist;focused+In+DATA+ENGENEER+%3C3"></a>
+</p>
+
+---
+
 
 ## 🚀 About Me
 David González es un científico de datos enfocado en ingeniería de datos, con experiencia práctica a través de proyectos en el área de ciencia de datos que demuestran sus sólidos conocimientos. Si bien no tiene experiencia laboral formal en IT, ha realizado cursos y un bootcamp intensivo en ciencia de datos, obteniendo habilidades técnicas en Python, ETL, análisis exploratorio de datos con Pandas y nociones de machine learning e inteligencia artificial. Sus principales fortalezas incluyen el preprocesamiento y limpieza de datos, análisis estadístico, modelado y algoritmos de aprendizaje automático. Busca iniciar su carrera profesional en ingeniería de datos, con interés en dominar las mejores prácticas y herramientas de big data y computación en la nube. Su objetivo es convertirse en un referente en la gestión y procesamiento de datos a gran escala.
