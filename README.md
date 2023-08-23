@@ -13,7 +13,7 @@ David González es un científico de datos enfocado en ingeniería de datos, con
 <p align="right">  <a href="https://github.com/Hotcer"><img src="https://img.shields.io/github/followers/Hotcer.svg?label=GitHub&style=social" alt="GitHub"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hotcer&label=Profile%20views&color=0e75b6&style=flat" alt="hotcer" /> </p>
 <div align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 </div>
 </a>
 
