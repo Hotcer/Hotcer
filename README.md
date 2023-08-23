@@ -49,5 +49,4 @@ David González es un científico de datos enfocado en ingeniería de datos, con
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hotcer&" alt="hotcer" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hotcer" alt="hotcer" /></a> </p>
-<a target="_blank" align="center">
+
