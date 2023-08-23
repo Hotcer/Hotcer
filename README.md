@@ -10,8 +10,7 @@
 
 ## 🚀 About Me
 David González es un científico de datos enfocado en ingeniería de datos, con experiencia práctica a través de proyectos en el área de ciencia de datos que demuestran sus sólidos conocimientos. Si bien no tiene experiencia laboral formal en IT, ha realizado cursos y un bootcamp intensivo en ciencia de datos, obteniendo habilidades técnicas en Python, ETL, análisis exploratorio de datos con Pandas y nociones de machine learning e inteligencia artificial. Sus principales fortalezas incluyen el preprocesamiento y limpieza de datos, análisis estadístico, modelado y algoritmos de aprendizaje automático. Busca iniciar su carrera profesional en ingeniería de datos, con interés en dominar las mejores prácticas y herramientas de big data y computación en la nube. Su objetivo es convertirse en un referente en la gestión y procesamiento de datos a gran escala.
-
-
+<p align="right">  <a href="https://github.com/Hotcer"><img src="https://img.shields.io/github/followers/Hotcer.svg?label=GitHub&style=social" alt="GitHub"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hotcer&label=Profile%20views&color=0e75b6&style=flat" alt="hotcer" /> </p>
 <div align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
