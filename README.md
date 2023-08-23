@@ -14,7 +14,7 @@ David González es un científico de datos enfocado en ingeniería de datos, con
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hotcer&label=Profile%20views&color=0e75b6&style=flat" alt="hotcer" /> </p>
 <div align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">           <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 </div>
 
 
@@ -33,7 +33,7 @@ David González es un científico de datos enfocado en ingeniería de datos, con
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel-seija-1819901a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-seija-1819901a2/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-gonzalez-1819901a2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://kaggle.com/hotcer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hotcer" height="30" width="40" /></a>
 </p>
 
