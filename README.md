@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm David Gonzalez alias (Hotcer)</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -47,8 +48,8 @@ David González es un científico de datos enfocado en ingeniería de datos, con
  <div align="center">
   <a href="https://github.com/Hotcer">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+       alt="snake" /></a> 
+</div> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hotcer&show_icons=true&locale=en" alt="hotcer" /></p>
 
@@ -56,3 +57,4 @@ David González es un científico de datos enfocado en ingeniería de datos, con
 
 
 <p><a href="https://www.buymeacoffee.com/drumenatec8"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drumenatec8" /></a></p><br><br>
+
